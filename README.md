@@ -1,1 +1,1 @@
-c++ 4-th semester tasks by Safronov_Alexey
+# Домашние задания по C++ 4 семестр.
