@@ -59,7 +59,7 @@ int main(){
 	std::cout << "1) Sorted by name directory: ";
 	print_map(m);
 	std::cout << std::endl;
-	std::cout << "2) Random number: " << number[rand() % 10]; 
+	std::cout << "2) Random number: " << number[rand() % 5]; 
 	std::cout << std::endl; 
 	std::cout << "Enter the name: ";
 	std::cin >> search_name;
